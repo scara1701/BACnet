@@ -4,6 +4,9 @@
 [![NuGet version](https://badge.fury.io/nu/bacnet.svg)](https://www.nuget.org/packages/BACnet)
 [![Donate](https://img.shields.io/badge/%24-donate-ff00ff.svg)](https://www.paypal.me/JakubBartkowiak)
 
+This library is a port from BACnet to support Net Standard 2.1.
+Library Common.Logging .NET was replaced with Common.Logging.NLogNetStandard https://github.com/LHCGreg/animerecs/tree/589ff87/Common.Logging.NLogNetStandard
+
 This library was originaly developed by Morten Kvistgaard with a lot of contribution from F. Chaxel. It is used as core library in [YABE (Yet Another BACnet Explore)](https://sourceforge.net/projects/yetanotherbacnetexplorer/). It has been forked here from SourceForge SVN source, splitted into separate repositories and made available to download from Nuget.
 
 ## How to use
